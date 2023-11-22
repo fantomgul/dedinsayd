@@ -1,0 +1,283 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing:border-box;
+}
+body{
+    
+    background: url(https://brokencore.club/data/avatars/o/40/40210.jpg?1623080652);
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.box{
+    width: 1100px;
+    margin: 0 auto;
+}
+nav{
+    height: 150px;
+    width: 1100px;
+    background: rgb(255, 255, 255);
+    border-radius: 20px;
+    
+}
+.nav_bth{
+    float: right;
+    width: 145px;
+    height: 55px;
+    background: rgb(111, 111, 111);
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-right: 20px;
+    background: url(https://i.gifer.com/Hi3z.gif);
+    background-size: 100% 100%;
+    text-align: center;
+    padding-top: 60px;
+    color:  rgb(106, 106, 106);
+    font-family: 'Gabriela', serif;
+    
+}
+.nav_bth1{
+    float: right;
+    width: 145px;
+    height: 55px;
+    background: gray;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-right: 20px;
+    background: url(https://i.pinimg.com/originals/87/d9/db/87d9dbfce10b3d9e244e64e113fc8325.gif);
+    background-size: 100% 100%;
+    text-align: center;
+    padding-top: 60px;
+    color: rgb(106, 106, 106);
+    font-family: 'Gabriela', serif;
+}
+.nav_bth2{
+    float: right;
+    width: 145px;
+    height: 55px;
+    background: gray;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-right: 20px;
+    background: url(https://pa1.aminoapps.com/6973/0e76733323cc3ac7d4899a72c5f3993097d105fcr1-500-243_hq.gif);
+    background-size: 100% 100%;
+    text-align: center;
+    padding-top: 60px;
+    color: rgb(106, 106, 106);
+    font-family: 'Gabriela', serif;
+}
+.nav_bth3{
+    float: right;
+    width: 145px;
+    height: 55px;
+    background: gray;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-right: 20px;
+    background: url(https://i.gifer.com/L2lU.gif);
+    background-size: 100% 100%;
+    text-align: center;
+    padding-top: 60px;
+    color: rgb(106, 106, 106);
+    font-family: 'Gabriela', serif;
+}
+
+nav img{
+float: left;
+width: 300px;
+height: 149px;
+border-radius: 20px;
+}
+header{
+    margin-top: 30px;
+    padding-left: 40px;
+    width: 1100px;
+    height: 500px;
+    background: url(https://i.pinimg.com/originals/fa/5b/54/fa5b5428e3abb2934c74e2748c7e91c8.gif);
+    background-size: 100% 100%;
+    line-height: 500px;
+    color: gray;
+    border-radius: 20px;
+}
+header h2{
+    font-family: 'Bad Script', cursive;
+    font-size: 27px;
+}
+main{
+    margin-top: 10px;
+    width: 1100px;
+    height: 620px;
+    border-radius: 20px;
+  
+}
+.main_box{
+    margin-top: 20px;
+    background: rgba(128, 128, 128, 0.726);
+    float: left;
+    margin-left: 20px;
+    height: 270px;
+    width: 275px;
+    border-radius: 20px;
+    text-align: center;
+    text-decoration: none;
+    
+}
+.main_bth{
+    margin-top: 20px;
+    margin-left: 2px;
+    border-radius: 20px;
+  width: 500px;
+  height: 560px;
+  background: rgba(128, 128, 128, 0.755);
+  float: right;
+ 
+}
+.main_bth h3{
+    text-align: center;
+    margin-top: 5px;
+    font-size: 30px;
+}
+.main_bth p{
+    text-align: center;
+    margin-top: 5px;
+    font-size: 25px;
+}
+.main_p{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background: rgba(58, 56, 56, 0.77);
+    margin-top: 10px;
+    margin-left: 150px;
+    border-radius: 30px;
+    line-height: 50px;
+    font-size: 22px;
+    transition: 1s;
+}
+.main_p:hover{
+    color: rgb(0, 0, 0);
+    transition: 1s;
+}
+.main_bth a{
+    color: white;
+    text-decoration: none;
+}
+.main_bth img{
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 488px;
+    height: 370px;
+   border-radius: 30px;
+}
+.main_box a{
+    text-decoration: none;
+}
+.main_box img{
+    margin-top: 3px;
+    margin-left: 2px;
+    border-radius: 20px;
+  width: 270px;
+  height: 180px;
+
+}
+.main_p1:hover{
+    color: black;
+    transition: 1s;
+}
+.main_box h3{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Cormorant Garamond', serif;
+    text-decoration: none;
+}
+.main_box p{
+    margin-top: 5px;
+    transition: 1s;
+    
+}
+.main_box p{
+    margin-top: 5px;
+    transition: 1s;
+    
+}
+.main_box div{
+    margin-left: 55px;
+    margin-top: 5px;
+    width: 150px;
+    height: 25px;
+    border-radius: 20px;
+    background: rgb(58, 56, 56);
+    text-align: center;
+    color: white;
+    line-height: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+}
+section{
+    width: 1100px;
+    height: 450px;
+    background: url(https://kalix.club/uploads/posts/2022-12/1671574002_kalix-club-p-kaneki-ken-manga-oboi-pinterest-1.jpg);
+    padding-top: 200px;
+    padding-left: 200px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+}
+section h1{
+    font-family: 'Bad Script', cursive;
+    font-size: 37px;
+
+}
+aside{
+    width: 1100px;
+    height: 700px;
+}
+.aside_box{
+    margin-top: 30px;
+    margin-left: 90px;
+    width: 900px;
+    height: 200px;
+    background: rgba(0, 0, 0, 0.779);
+    border-radius: 20px;
+
+}
+.aside_box img{
+    float: left;
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+}
+.aside_box h2{
+    color: white;
+}
+.aside_bth{
+    width: 600px;
+    height: 200px;
+    float: right;
+  padding-top: 20px;
+}
+.aside_bth h2{
+margin-left: 25px;
+}
+.aside_bth p{
+    margin-top: 10px;
+    color: white;
+    margin-left: 15px;
+    font-size: 18px;
+}
+footer{
+    width: 1100px;
+    height: 350px;
+    background: url(https://otkritkis.com/wp-content/uploads/2022/06/mvwyr.gif);
+    background-size: 100% 100%;
+    float: left;
+    border-radius: 20px;
+}
+footer img{
+    width: 80px;
+    height: 80px;
+    float: right;
+    margin-top: 150px;
+    margin-right: 60px;
+}
